@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Rcasas14
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+### Hi There
 
-<!---
-Rcasas14/Rcasas14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Intro Here Below!
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rcasas14&hide=contribs,prs)
