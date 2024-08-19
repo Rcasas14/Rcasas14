@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif)
 <h1 align="center">Hi 👋, I'm Reymart Casas</h1>
-<h3 align="center">A passionate a self-taught Web Developer</h3>
+<h3 align="center">HI BI POWER</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
