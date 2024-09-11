@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **SASS, JAVASCRIPT, HTML, and CSS**
 
-- 📫 How to reach me **reymartcasas123@gmail.com**
-
 - ⚡ Fun fact **I am platinum on Valorant :P**
 
 <h3 align="left">Connect with me:</h3>
